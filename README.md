@@ -1,4 +1,5 @@
 ## Hi there 👋
+Mein Name ist Léon und ich bin Auszubildender als Fachinformatiker für Anwedungsentwicklung
 
 <!--
 **LeWilke/LeWilke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
